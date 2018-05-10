@@ -5,7 +5,7 @@ This app is for the Advanced Android Development
 
 ## Starting Classes
 
-Below is a description of the different packages and classes in the starting app code.
+Below is a description of the different packages and classes in the app code.
 
 ### `data` package
 Contains all classes related to local and network app data.
